@@ -1,7 +1,7 @@
 # AnzudB
 Simple Desktop dB chacker with the character  
 <img width="290" height="416" alt="image" src="https://github.com/user-attachments/assets/08e040db-6dc2-4031-bc03-e01002f086e3" />  
-キャラクターのアホ毛が踊るシンプルなデシベル数チェッカーです。  
+キャラクター(唐桃杏子)のアホ毛が踊るシンプルなデシベル数チェッカーです。  
 
 #### ダウンロード/Download  
 https://github.com/yokonoha/AnzudB/releases/tag/First
