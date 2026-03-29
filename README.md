@@ -5,4 +5,7 @@ Simple Desktop dB chacker with the character
 唐桃杏子 from YOKOSTA Chars! [唐桃杏子(あんず)とは?](https://yokonoha.pages.dev/charactersimg/anzu)  
 
 #### ダウンロード/Download  
-https://github.com/yokonoha/AnzudB/releases/tag/First
+https://github.com/yokonoha/AnzudB/releases/tag/First  
+
+オープンソースライセンス表示は、タスクバーのアイコン(NotifyIcon)のコンテキストメニューから閲覧可能です。  
+<img width="290" height="416" alt="image" src="./oslform.png" />  
