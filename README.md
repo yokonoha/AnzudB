@@ -8,4 +8,4 @@ Simple Desktop dB chacker with the character
 https://github.com/yokonoha/AnzudB/releases/tag/First  
 
 オープンソースライセンス表示は、タスクバーのアイコン(NotifyIcon)のコンテキストメニューから閲覧可能です。  
-<img width="290" height="416" alt="image" src="./oslform.png" />  
+<img alt="image" src="./oslform.png" />  
